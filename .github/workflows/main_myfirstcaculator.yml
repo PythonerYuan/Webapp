@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'myfirstcaculator'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BC7F4CA6127840FD96E9E1D234D4A151 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A3BD261E88804D188454AD1AB0A07E59 }}
